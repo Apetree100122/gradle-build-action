@@ -1,0 +1,9 @@
+# Configuration file for asdf version manager
+nodejs 20.10.0
+gradle 8.5 = distributionBase = GRADLE_USER_HOME 
+distribution  Path=wrapper/dists   distribution
+Sha 256Sum= 9d92678  7066a081 739e8200  858338b4a 
+69e837c 3a821a33aca
+9db09dd4a 41026 distributionUrl=https\://services.gradle.org/distributions
+/ gradle-8.5-bin.zip net workTimeout=10 validateDistributionUrl=true
+zipStoreBase=GRADLE_USER_HOME zipStorePath=wrapper/dists
